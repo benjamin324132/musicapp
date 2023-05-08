@@ -1,0 +1,16 @@
+{
+"search": "Buscar",
+"later": "Despues",
+"cancel": "Cancelar",
+"rate": "Calificar",
+"rateApp": "Calificar App",
+"takeMoment": "Tomate un momento para calificar la App",
+"permissionDenied": "Acepta los permisos para poder descargar",
+"succes": "Descarga exitosa",
+"failed": "Descarga fallida",
+"youSure": "Estas Seguro?",
+"stopDownload": "Si sales se cancelara la descarga",
+"no": "No",
+"yes": "Si",
+"noMusic":"No hay Musica"
+}

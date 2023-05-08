@@ -1,0 +1,16 @@
+{
+"search": "Search",
+"later": "Later",
+"cancel": "Cancel",
+"rate": "Rate",
+"rateApp": "Rate App",
+"takeMoment": "Take a moment to rate this App",
+"permissionDenied": "Couldn't download track. Not enough permissions",
+"succes": "Downloaded successfully",
+"failed": "Downloaded Failed",
+"youSure": "Are you sure?",
+"stopDownload": "Do you want to stop the download?",
+"no": "No",
+"yes": "Yes",
+"noMusic":"No Music"
+}
